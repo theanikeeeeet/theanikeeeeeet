@@ -15,6 +15,7 @@
 
 ##  Tech & Design Toolbox
 ... (your section here)
-## Contribution Streak
+## 🔥 Contribution Streak  
 
-![Aniket Raj's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=theanikeeeeet&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theanikeeeeet&theme=radical)
+
